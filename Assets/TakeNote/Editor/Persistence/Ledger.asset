@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 757c7930830877b47944add6103cde80, type: 3}
+  m_Name: Ledger
+  m_EditorClassIdentifier: 
+  OutstandingTasks:
+  - Title: Re-structure the level
+    CreationDate: 9/11/2020 | 5:24 PM
+    CompletionDate: 
+    HasDetails: 0
+    Details: 
+    IsCompleted: 0
+    IsDeferred: 0
+    IsColored: 1
+    DrawColor: {r: 0.9622642, g: 0.49626437, b: 0.104396604, a: 1}
+  - Title: find new player sprite
+    CreationDate: 9/11/2020 | 5:25 PM
+    CompletionDate: 
+    HasDetails: 0
+    Details: 
+    IsCompleted: 0
+    IsDeferred: 0
+    IsColored: 1
+    DrawColor: {r: 0.9622642, g: 0.49626437, b: 0.104396604, a: 1}
+  - Title: add more enemy sprites
+    CreationDate: 9/11/2020 | 5:25 PM
+    CompletionDate: 
+    HasDetails: 0
+    Details: 
+    IsCompleted: 0
+    IsDeferred: 0
+    IsColored: 1
+    DrawColor: {r: 0.9622642, g: 0.49626437, b: 0.104396604, a: 1}
+  CompletedTasks: []
+  DeferredTasks: []
